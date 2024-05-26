@@ -1,0 +1,7 @@
+<ul class= "nav-list">
+{% for entry in include.entries %} 
+    <li class= "nav-entry">
+        <a href= "{{ entry.target }}" class= "nav-link">{{ entry.text }}</a>
+    </li>
+{% endfor %} 
+</ul> 
