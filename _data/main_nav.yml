@@ -1,0 +1,12 @@
+- 
+  text: Home 
+  target: / 
+- 
+  text: About  
+  target: /about  
+- 
+  text: Gallery 
+  target: /gallery 
+- 
+  text: Contact
+  target: /contact 
